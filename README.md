@@ -72,17 +72,17 @@ python -m http.server
 ```
 portfolio-website/
 │
-├── index.html              # Main HTML file
-├── styles.css              # CSS styles
-├── script.js               # JavaScript functionality
+├── index.html                         # Main HTML file
+├── styles.css                         # CSS styles
+├── script.js                          # JavaScript functionality
 │
-└── assets/                 # Assets directory
-    ├── MATURA.jpg          # Profile picture
-    ├── daniel_dukoski_09.png # Hero background image
-    ├── favicon.png         # Website favicon
-    ├── Certificate A1.jpg  # Certificate image
-    ├── IMG_20240902_193945_074.webp # About section image
-    └── Daniel_Dukoski_CV.pdf # Downloadable CV
+└── assets/                            # Assets directory
+    ├── MATURA.jpg                     # Profile picture
+    ├── daniel_dukoski_09.png          # Hero background image
+    ├── favicon.png                    # Website favicon
+    ├── Certificate A1.jpg             # Certificate image
+    ├── IMG_20240902_193945_074.webp   # About section image
+    └── Daniel_Dukoski_CV.pdf          # Downloadable CV
 ```
 
 ## 🔄 Future Improvements
@@ -98,9 +98,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 Feel free to reach out to me:
 
-Email: ddukoski03@gmail.com
-LinkedIn: Daniel Dukoski
-GitHub: Duk0ski
+- Email: ddukoski03@gmail.com
+- LinkedIn: Daniel Dukoski
+- GitHub: Duk0ski
 
 ## ⭐️ From Daniel Dukoski
 
