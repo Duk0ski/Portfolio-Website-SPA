@@ -33,7 +33,7 @@ This portfolio website serves as a comprehensive digital resume and showcase of 
 ![Screenshot (30)](https://github.com/user-attachments/assets/846874b1-4e51-4dcf-90b8-61a64dcfff18)
 
 ### About Section
-![A![Screenshot (38)](https://github.com/user-attachments/assets/a96c1569-4d4e-49d1-936a-ad88cf32ea3a)
+![Screenshot (38)](https://github.com/user-attachments/assets/a96c1569-4d4e-49d1-936a-ad88cf32ea3a)
 
 ### Skills Section
 ![Screenshot (37)](https://github.com/user-attachments/assets/c239bcaf-736f-4aea-bb6e-093eb9594643)
