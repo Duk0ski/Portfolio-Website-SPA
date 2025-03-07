@@ -60,7 +60,7 @@ window.addEventListener('scroll', () => {
 const typedTextElement = document.getElementById('typed-text');
 const textsToType = [
     " Full-Stack Developer.",
-    " student at the FINKI.",
+    " student at FINKI.",
     " Freelancer."
 ];
 let textIndex = 0;
