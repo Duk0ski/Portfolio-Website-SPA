@@ -12,13 +12,15 @@
             --nav-text: #ffffff;
             --nav-hover: #4a6fa5;
         }
-        
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            scroll-behavior: smooth;
         }
+   
         
         body {
             background-color: var(--background-color);
@@ -592,6 +594,7 @@
         
         .footer-links {
             list-style: none;
+            scroll-behavior: smooth;
         }
         
         .footer-links li {
